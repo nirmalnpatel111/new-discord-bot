@@ -1,0 +1,10 @@
+.env
+serviceAccounts.json
+*.log
+__pycache__/
+*.pyc
+.venv/
+venv/
+.git
+.gitignore
+README copy.md

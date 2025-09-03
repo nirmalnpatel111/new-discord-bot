@@ -1,0 +1,7 @@
+discord.py
+python-dotenv
+firebase-admin
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
